@@ -8,7 +8,7 @@ I enjoy turning ideas into reliable systems and continuously improving how I des
 I work confidently with:
 **TypeScript • Node.js • Express • MongoDB • Git/GitHub • Docker • Postman • Vercel**
 
-I'm currently leveling up in **advanced backend development** (architecture patterns, API performance, security, and deployment workflows), and I’m open to **remote opportunities**.
+I'm currently leveling up in **advanced backend development** (architecture patterns, API performance, security, and deployment workflows), and I’m open to **opportunities**.
 
 ---
 

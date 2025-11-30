@@ -1,1 +1,51 @@
- Franklin Ochieng | MERN Stack EngineerHello! I'm Franklin Ochieng, a dedicated Full-Stack Engineer specializing in the MERN ecosystem, augmented by modern tools like TypeScript and robust cloud platforms.I thrive on tackling complex challenges and building robust, scalable applications from end-to-end, always prioritizing clean, readable, and efficient code. I have a deep-seated commitment to continuous learning, which drives me to explore new technologies and best practices.🛠️ My Core Tech StackMy primary focus is the MERN stack, with strong experience in integrating cutting-edge technologies.MERN + TypeScript & CloudCategorySkills & Focus AreasBackend & LogicNode.js, Express.js, TypeScript, RESTful APIs, Passport/JWT AuthenticationFrontend & UIReact.js, JavaScript (ES6+), HTML5, CSS3, Redux/Context API, [Suggest a UI Library: e.g., Tailwind CSS, Material UI]Data & StorageMongoDB, Mongoose ODM, [Optional: Add a relational database if you have one, e.g., PostgreSQL]Deployment & DevOpsGit/GitHub, AWS (S3, EC2, Lambda), Vercel, Docker, CI/CD Principles✨ Project ShowcaseHere are two featured projects that highlight my full-stack capabilities, cloud deployment experience, and API development skills:1. Daraja Backend Integration[Link to Repo] https://github.com/ochiengfranklin/Daraja-backendSummary: A secure Node.js and Express backend solution for integrating the Safaricom Daraja API (M-Pesa). This project demonstrates robust API design, security implementation, and handling of financial transactions.Tech Stack Highlight: Node.js, Express, and secure API handling.2. General API Development[Link to Repo] https://github.com/ochiengfranklin/APISummary: A versatile API project showcasing best practices in building structured, scalable, and well-documented RESTful APIs. This repository includes examples of routing, middleware, and database connectivity.Tech Stack Highlight: Focus on clean code architecture and efficient API delivery.💡 What's Next & My Learning MindsetAs a developer with a commitment to continuous learning, I'm always looking forward:Current Focus: I am actively deepening my knowledge in AWS by focusing on infrastructure as code (Terraform or CloudFormation) to better manage cloud resources.Exploring: Evaluating state management solutions in React outside of Redux, such as Zustand or Jotai, to improve performance in large-scale applications.Contribution: Check out my recent contribution to [Name of Open Source project/Blog post/Tech Talk] on [Topic]. (Remember to fill this in!)🤝 Let's Connect!I am actively seeking opportunities to join an innovative team and apply my full-stack expertise. Feel free to reach out—I’d love to discuss how I can bring value to your projects.Contact Me📧 Emailochiengfranklin264@gmail.com🔗 LinkedInwww.linkedin.com/in/franklin-ochieng-9439a2292🌐 
+ # Hi, I'm Franklin 👋
+
+**Software Developer • MERN Specialist • Backend-Focused**
+
+I’m an intermediate Software Developer specializing in the **MERN stack**, with a strong focus on **backend engineering** and clean, scalable architectures.
+I enjoy turning ideas into reliable systems and continuously improving how I design, build, and ship software.
+
+I work confidently with:
+**TypeScript • Node.js • Express • MongoDB • Git/GitHub • Docker • Postman • Vercel**
+
+I'm currently leveling up in **advanced backend development** (architecture patterns, API performance, security, and deployment workflows), and I’m open to **remote opportunities**.
+
+---
+
+## 🚀 Tech Stack & Tools
+
+**Languages:** JavaScript, TypeScript
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, Express.js, MongoDB, REST APIs
+**DevOps / Tools:** Docker, Git, GitHub Actions, Postman, Vercel
+**Other:** Authentication (JWT), API Security, CI/CD, Cloud Deployments
+
+---
+
+## 💡 What I’m Focused On
+
+* Building **production-ready APIs**
+* Writing **clean, maintainable, and testable** backend code
+* Improving skills in **scalability, security, and system architecture**
+* Deploying real-world applications used by actual users
+
+---
+
+## 🧠 Current Learning Journey
+
+* Advanced backend architecture
+* API performance optimization
+* Containerization & deployment workflows
+* TypeScript best practices
+
+---
+
+## 📫 Connect With Me
+
+**Email:** ochiengfranklin264@gmail.com
+**LinkedIn:**www.linkedin.com/in/franklin-ochieng-9439a2292
+
+
+---
+
+✨ *Thanks for stopping by! Feel free to explore my work — feedback, contributions, and opportunities are always welcome.*

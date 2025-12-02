@@ -2,7 +2,7 @@
 
 **Software Developer • MERN Specialist • Backend-Focused**
 
-I’m a Software Developer specializing in the **MERN stack**, with a strong focus on **backend engineering** and clean, scalable architectures.  
+I’m a Software Engineer specializing in the **MERN stack**, with a strong focus on **backend engineering** and clean, scalable architectures.  
 I enjoy turning ideas into reliable systems and continuously improving how I design, build, and ship software.
 
 ---

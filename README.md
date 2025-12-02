@@ -56,7 +56,8 @@ I enjoy turning ideas into reliable systems and continuously improving how I des
 ---
 
 ## 📊 GitHub Stats
-![Franklin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ochiengfranklin264&show_icons=true&theme=radical&count_private=true)
+![Franklin's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=ochiengfranklin264&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api?username=ochiengfranklin&show_icons=true&theme=radical&count_private=true
+))
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ochiengfranklin264&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ochiengfranklin264&theme=radical)

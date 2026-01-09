@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20Franklin%20👋&fontSize=34&animation=fadeIn&fontColor=36BCF7" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I'm%20Franklin%20👋&fontSize=34&fontColor=36BCF7&animation=scaleIn" />
+</p>
+
 
 
 **Software Engineer • MERN Specialist**
